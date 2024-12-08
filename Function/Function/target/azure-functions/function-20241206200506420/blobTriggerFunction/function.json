@@ -1,0 +1,12 @@
+{
+  "scriptFile" : "../function-1.0.jar",
+  "entryPoint" : "com.function.BlobTriggerFunction.execute",
+  "bindings" : [ {
+    "type" : "blobTrigger",
+    "direction" : "in",
+    "name" : "blobTrigger",
+    "path" : "az204-userblobcontainer/{blobName}",
+    "dataType" : "binary",
+    "connection" : "AzureWebJobsStorage"
+  } ]
+}

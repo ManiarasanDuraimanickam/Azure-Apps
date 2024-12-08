@@ -5,32 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="916dfdef-c6fc-4a83-814f-de22e0395207" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.azure/default/connections.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/function/BlobTriggerFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/function/Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/function/FunctionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/function/HttpResponseMessageMock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../StorageApp/BlobStorageApp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/azure_functions_java_library_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/function_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/host.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local.settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/azure-functions/function-20241206200506420/function-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/azure-functions/function-20241206200506420/function-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StorageApp/BlobStorageApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../StorageApp/BlobStorageApp/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$/../.." value="e55c749cddeaeb51b30892819a1bfc932bc95ac2" />
-      </map>
-    </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -43,33 +35,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "function.wasFacetEverAdded": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/LENOVO/Documents/Projects/Azure-Apps/Function/Function",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "com.microsoft.intellij.AzureConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;function.wasFacetEverAdded&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/LENOVO/Documents/Projects/Azure-FunctionApp/function&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\Documents\Projects\Azure-Apps\Function\Function" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Run Functions - function" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions" temporary="true">
       <option name="appName" />
       <option name="appServicePlanName" />
       <option name="appServicePlanResourceGroup" />
-      <option name="appSettingsKey" value="f0201925-851b-4c3b-ba71-cf14d4b3bad6" />
+      <option name="appSettingsKey" value="8e8b2c18-d147-4dd3-95f9-ca859936f0cd" />
       <option name="artifact" />
       <option name="debugOptions" />
       <option name="deployment" />
       <option name="deploymentStagingDirectoryPath" />
       <option name="funcPath" value="C:\Program Files\Microsoft\Azure Functions Core Tools\func.exe" />
-      <option name="functionHostArguments" value="host start --port 50420" />
+      <option name="functionHostArguments" value="host start --port 58486" />
       <option name="hostJsonPath" />
       <option name="insightsName" />
       <option name="instrumentationKey" />
@@ -87,6 +80,9 @@
       <option name="subscription" />
       <method v="2">
         <option name="Make" enabled="true" />
+        <option name="ConnectionRunnerForConfigurationId" enabled="false">
+          <option name="envFile" value="C:\Users\LENOVO\Documents\Projects\Azure-Apps\Function\Function\.azure\default\.env" />
+        </option>
       </method>
     </configuration>
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
@@ -138,12 +134,5 @@
       <updated>1733495792889</updated>
     </task>
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>

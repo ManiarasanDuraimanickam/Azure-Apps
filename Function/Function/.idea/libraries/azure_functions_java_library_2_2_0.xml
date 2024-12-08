@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="azure-functions-java-library-2.2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/azure-functions/function-20241206200506420/lib/azure-functions-java-library-2.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
