@@ -4,13 +4,14 @@ csx
 .vs
 edge
 Publish
-
+.gitignore
+*.gitignore
 *.user
 *.suo
 *.cscfg
 *.Cache
 project.lock.json
-
+/target
 /packages
 /TestResults
 
