@@ -12,7 +12,7 @@ import java.nio.file.StandardOpenOption;
 
 public class BlobTriggerFunction {
 
-    @FunctionName("blobTriggerFunction")
+    //@FunctionName("blobTriggerFunction")
     public void execute(
             @BlobTrigger(name = "blobTrigger",
                     dataType = "binary",
